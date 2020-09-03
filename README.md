@@ -20,5 +20,5 @@ https://www.w3schools.com/howto/howto_css_loader.asp W3Schools - Loader
 
 https://htmldom.dev/ This resource will show you all the methods and properties we have available to us to interact with this DOM
 
-#deploy
+# Deploy
 This site is deployed using netlify
