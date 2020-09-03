@@ -19,3 +19,6 @@ https://developer.twitter.com/en/docs/twitter-for-websites/tweet-button/guides/w
 https://www.w3schools.com/howto/howto_css_loader.asp W3Schools - Loader
 
 https://htmldom.dev/ This resource will show you all the methods and properties we have available to us to interact with this DOM
+
+#deploy
+This site is deployed using netlify
